@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samuel Barnabase
 - 👀 I’m interested in programming, solving real life problems, and enjoying life as a whole.
 - 🌱 I’m currently learning Computer Engineering at Iowa State University.
-- 📫 How to reach me: You can reach out to me via Linkedin and Github.
+- 📫 How to reach me: You can reach out to me via Linkedin or Github.
 - ⚡ Fun fact: I love Soccer!
 
 <!---
